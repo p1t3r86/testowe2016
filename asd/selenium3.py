@@ -1,8 +1,7 @@
 #!/usr/bin/env python
-
 from selenium import webdriver
 import datetime
-import time
+#now = datetime.datetime.now()
 
 #from selenium.webdriver.common.keys import Keys
 
@@ -41,28 +40,19 @@ pliki=0
 
 driver = webdriver.Firefox()
 
-for i in range (0, len(LISTA_SERWISOW2)):
-	driver.get(LISTA_SERWISOW2[i])
+for i in range (0, len(LISTA_SERWISOW)):
+	driver.get(LISTA_SERWISOW[i])
 	print "+++++++++++++++++++++++++++++++++++++++++++++++"
 	now = datetime.datetime.now()
 	print now.isoformat()
-	print LISTA_SERWISOW2[i]
-	
-	#linki = driver.find_elements_by_tag_name('a href')  ZLE!!!!!!!!!!!!
-	linki = driver.find_elements_by_xpath('//a[contains(@href)]')
-	print linki
-	#data utm-medium
+	print LISTA_SERWISOW[i]
 	#print "+++++++++++++++++++++++++++++++"
 	#print driver.current_url
-#	'''
-#	plik = open('plik', 'w')
-#	plik.write(driver.page_source)
-#	plik.close()
-#	'''
-	#grep "utm-medium" driver.page_source
-
-		
-##############################
+	#print driver.page_source
+	adres_serwisu=driver.current_url
+	driver.find_elements(By.name
+	
+############################# dziala, ale pokazuje tylko to co jest w zrodle...
  
 	if "gaf.js" in driver.page_source:
 		
@@ -121,15 +111,16 @@ for i in range (0, len(LISTA_SERWISOW2)):
 	else:	
 		print "/pliki/ is not present"
 
-
+''
 ###############################################################
+#print adres_serwisu
+
 
 #assert "tech" in driver.page_source
 
 
 #elem.send_keys(Keys.RETURN)
 #assert "No results found." not in driver.page_source
-
 print "sprawdzilem", len(LISTA_SERWISOW), "serwisow"
 print "===liczba wystapien poszczegolnych elementow==="
 print "gaf.js=", gafjs 
@@ -140,4 +131,12 @@ print "bar.gif=", bargif
 print "document.write=", documentwrite
 print "/pliki/=", pliki
 
+
+# gafjs="gafj
 driver.close()
+
+#print gafjs="gafjs"
+
+#"rekid="rekid, "rekidrpos="rekidrpos, "fsc="fsc, "bargif="bargif, "documentwrite="documentwrite, "pliki="pliki 
+
+
