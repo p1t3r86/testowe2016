@@ -1,0 +1,311 @@
+ 
+POST /p HTTP/1.1  (application/octet-stream)
+GET / HTTP/1.1 
+[TCP segment of a reassembled PDU]
+Continuation
+Continuation
+POST /p HTTP/1.1  (application/octet-stream)
+HTTP/1.1 200 OK  (application/octet-stream)
+GET /r5873278663/dot.gif?SN=finanse2012_serwis&Pos=readtime&pg=http%3A%2F%2Ffinanse.wp.pl%2F&rf=&tm=26093&fba=1458297822.238&gfk_m=wpPL&gfk_c=finanse_d_sg&pvid=ca61256f8ee8b800&v=5.4 HTTP/1.1 
+HTTP/1.1 200 OK  (application/octet-stream)
+GET /r4671053264/show.gif?&srv=finanse2012_serwis&action=performance&par=%26type%3Dwebsite%26state%3DWU%26data%3D%7B%22AD%22%3A%7B%7D%2C%22DR%22%3A%7B%22entries%22%3A150%2C%22img%22%3A22%2C%22css%22%3A1%2C%22iframe%22%3A0%2C%22link%22%3A4%2C%22script%22%3A61%2C%22xhr%22%3A8%2C%22errors%22%3A0%2C%22visibilitySteps%22%3A6%7D%2C%22WL%22%3A%7B%22entries%22%3A181%2C%22img%22%3A26%2C%22css%22%3A1%2C%22iframe%22%3A0%2C%22link%22%3A4%2C%22script%22%3A64%2C%22xhr%22%3A8%2C%22errors%22%3A0%2C%22visibilitySteps%22%3A6%7D%2C%22WU%22%3A%7B%22entries%22%3A203%2C%22img%22%3A34%2C%22css%22%3A1%2C%22iframe%22%3A0%2C%22link%22%3A5%2C%22script%22%3A75%2C%22xhr%22%3A8%2C%22errors%22%3A0%2C%22visibilitySteps%22%3A6%7D%2C%22TM%22%3A%7B%22cntntVsbl%22%3A3.767%2C%22nvgtnStrt%22%3A0%2C%22unldEvntStrt%22%3A0.258%2C%22unldEvntEnd%22%3A0.269%2C%22ftchStrt%22%3A0.007%2C%22dmnLkpStrt%22%3A0.007%2C%22dmnLkpEnd%22%3A0.007%2C%22cnnctStrt%22%3A0.007%2C%22cnnctEnd%22%3A0.007%2C%22rqstStrt%22%3A0.013%2C%22rspnsStrt%22%3A0.254%2C%22rspnsEnd%22%3A0.255%2C%22dmLdng%22%3A0.258%2C%22dmIntrctv%22%3A8.313%2C%22dmCntntLddEvntStrt%22%3A8.387%2C%22dmCntntLddEvntEnd%22%3A8.53%2C%22dmCmplt%22%3A9.682%2C%22ldEvntStrt%22%3A9.682%2C%22ldEvntEnd%22%3A9.691%7D%2C%22MA%22%3A%7B%22prbdAPI_rncnfg%22%3A0.6187%2C%22ABDtctrRd%22%3A1.0925%2C%22iq_nt_slt5%22%3A8.8884%7D%2C%22ME%22%3A%7B%7D%7D%26wpjsver%3D1.03.1246%26perfver%3D1.0.1%26rekid%3D5187&pg=http%3A%2F%2Ffinanse.wp.pl%2F%3Fticaid%3D116ac4%26_ticrsn%3D5&gfk_m=wpPL&gfk_c=finanse_d_sg&pvid=ca61256f8ee8b800&v=5.4 HTTP/1.1 
+GET /activeview?avi=BIE_D39vrVua6LcOrYsr8h_gIAI3D7-TmAgAAEAE4AcgBAuACAMgDmQTgBAGgBgLCExgKEBDV5ZnAVSIICAIQARgBIAAY3Z6U_wM&cid=5GhSWTz4EFOnrTQg3vZyuHZ9F6A&id=osdtos&ti=1&adk=1453904939&p=214,268,304,996&tos=273243,0,0,0,0&mtos=134705,134705,134705,134705,134705&rs=3&ht=0&tfs=2585&tls=2223779&mc=1&lte=1&bas=0&bac=1&fp=correlator%3D3978490826153135%26eid%3D108809080%26iu%3D%252F89844762%252FDesktop_Finanse.wp.pl_2x_728x90%26oid%3D3%26url%3Dhttp%253A%252F%252Ffinanse.wp.pl%252F%253Fticaid%253D116ac4%2526_ticrsn%253D5&afp=%26output%3Djson_html%26impl%3Ds%26dt%3D1458297823778%26adx%3D640%26ady%3D88%26ifi%3D1%26flash%3D21.0.0&tmo=3&tme=2584&tdl=2311&tcl=2278&r=u&bs=1264,868&bos=1288,1032&ps=1264,5970&ss=1280,1024&tt=2216133&pt=7648&deb=1-8-8-1657-2623-4&tvt=273248&uc=2622&tgt=IMG&cl=1 HTTP/1.1 
+GET /activeview?avi=BNUtx5tvrVu6kEIeEZty4r_AKAK2g8pTsAgAAEAE4AcgBAuACAMgDmQTgBAGgBgLCEwYY3Z6U_wM&cid=5GhYDWzN0NgVX6-TxQxWGlwDK3A&id=osdim&ti=1&adk=3022676224&p=904,817,1504,1117&tos=0,0,0,0,641&mtos=0,0,0,0,641&rs=3&ht=0&tfs=7006&tls=7504&mc=0.17&lte=0.17&bas=0&bac=1&fp=correlator%3D3978490826153135%26eid%3D108809080%26iu%3D%252F89844762%252FDesktop_Finanse.wp.pl_2x_728x90%26oid%3D3%26url%3Dhttp%253A%252F%252Ffinanse.wp.pl%252F%253Fticaid%253D116ac4%2526_ticrsn%253D5&afp=%26output%3Djson_html%26impl%3Ds%26dt%3D1458297830324%26ifi%3D7%26flash%3D21.0.0&tmo=6106&tme=7006&tdl=8017&tcl=8017&r=u&bs=1264,868&bos=1288,1032&ps=1264,5970&ss=1280,1024&tt=2216133&pt=7648&deb=1-8-8-1657-2623-4&tvt=273248&uc=2597&tgt=IMG&cl=1 HTTP/1.1 
+HTTP/1.1 200 OK  (GIF89a) (GIF89a) (image/gif)
+HTTP/1.1 204 No Content 
+GET /a9149cac31d6a976a7ff67cecc2273f870e9eea9_375x220 HTTP/1.1 
+GET /1f62d5395101dd80fa787a3093dfef37ebc73000_375xa.jpg HTTP/1.1 
+HTTP/1.1 204 No Content 
+[TCP segment of a reassembled PDU]
+[TCP segment of a reassembled PDU]
+GET /b3bf84da83c05c9c284f07962fb7a28536760091_375x220 HTTP/1.1 
+GET /c18e2295838b352766f7811777e019f94c3b58a7_375xa.jpg HTTP/1.1 
+GET /c85620fa8e7e91fc736b43913b0c25ae6f0a59f0_375xa.jpg HTTP/1.1 
+GET /66538b8bfe64fc5bb8fcc8b56dc560f3f036b161.jpg HTTP/1.1 
+GET /48cad5918f9527dc3e78e2b084e9c65d76686fa4.jpg HTTP/1.1 
+HTTP/1.1 200 Ok  (PNG)[Malformed Packet]
+Continuation
+HTTP/1.1 200 Ok  (JPEG JFIF image)
+HTTP/1.1 200 Ok  (JPEG JFIF image)
+HTTP/1.1 200 Ok  (JPEG JFIF image)
+HTTP/1.1 200 Ok  (JPEG JFIF image)
+Continuation
+GET /1061331d3da75c43cf030f2d0ac0d922cec0d915 HTTP/1.1 
+GET /83d521b39c7f51d22f8cbd624a225f303ddf2cd0.jpg HTTP/1.1 
+GET /c7537f62899247263e0b3d04f9c5d3875bcc6f96 HTTP/1.1 
+GET /cb25ca47ccd23795c13d6200457ab78736b3dbeb HTTP/1.1 
+Continuation
+HTTP/1.1 200 Ok  (JPEG JFIF image)
+HTTP/1.1 200 Ok  (JPEG JFIF image)
+GET /f1bc3aadf3737cca53e01decca9c84512e654870.jpg HTTP/1.1 
+HTTP/1.1 200 Ok  (JPEG JFIF image)
+HTTP/1.1 200 Ok  (JPEG JFIF image)
+GET /dbe5c2e16030fc63822c8c6169de8ba4ebf13579.png HTTP/1.1 
+HTTP/1.1 200 Ok  (JPEG JFIF image)
+HTTP/1.1 200 Ok  (PNG)[Malformed Packet]
+GET /25b82b050a5f85f766dbda6d84635b617d2cfd0f HTTP/1.1 
+Continuation
+GET /dfa431460afe0faf06a824590fb5ddc1d24e8d3a HTTP/1.1 
+HTTP/1.1 200 Ok  (JPEG JFIF image)
+GET /d3a18787d6624f2ab5107117691a7ebad1e9c0cc HTTP/1.1 
+GET /f1347a7100a2a95cba699967bbe029d8eba987e5.png HTTP/1.1 
+GET /0ac0bdd24cf19978b4124e73c53161cf27391139.png HTTP/1.1 
+GET /3cf00c09d2066a487e38462a3c5afe8334b178af.png HTTP/1.1 
+GET /ec4097a9135e692a7bc33e3c832a141a788bb3fd.png HTTP/1.1 
+HTTP/1.1 200 Ok  (PNG)[Malformed Packet]
+HTTP/1.1 200 Ok  (JPEG JFIF image)
+HTTP/1.1 200 Ok  (JPEG JFIF image)
+HTTP/1.1 200 Ok  (PNG)[Malformed Packet]
+HTTP/1.1 200 Ok  (PNG)[Malformed Packet]
+POST /p HTTP/1.1  (application/octet-stream)
+HTTP/1.1 200 Ok  (PNG)[Malformed Packet]
+POST /p HTTP/1.1  (application/octet-stream)
+Continuation
+HTTP/1.1 200 OK  (application/octet-stream)
+GET /a/i/stg/gfk/sst_100.js HTTP/1.1 
+HTTP/1.1 304 Not Modified 
+HTTP/1.1 200 OK  (application/octet-stream)
+GET /a/i/stg/16879,wpjslib_103.js HTTP/1.1 
+HTTP/1.1 200 OK [Malformed Packet]
+Continuation
+GET /10c42372e1e5bdb4d03cd6d7ed1e07bf4b48d1fc.png HTTP/1.1 
+GET /8f81bf77bbba9bb6dabb8868a9c7321f6df1f624.png HTTP/1.1 
+Continuation
+HTTP/1.1 200 Ok  (PNG)[Malformed Packet]
+HTTP/1.1 200 Ok  (PNG)[Malformed Packet]
+HTTP/1.1 200 OK  (GIF89a) (GIF89a) (image/gif)
+POST /p HTTP/1.1  (application/octet-stream)
+HTTP/1.1 200 OK  (application/octet-stream)
+GET /js/jq_cors_patch.js HTTP/1.1 
+HTTP/1.1 304 Not Modified 
+POST /p HTTP/1.1  (application/octet-stream)
+HTTP/1.1 200 OK  (application/octet-stream)
+POST /p HTTP/1.1  (application/octet-stream)
+GET /r6781592338/dot.gif?SN=o2_pudelek_pl&Pos=top&pg=http%3A%2F%2Fwww.pudelek.pl%2F&rf=&fba=1458300044&gfk_m=pudelekPL&gfk_c=d_SG&pvid=ca6139aee16f2000&v=5.4 HTTP/1.1 
+HTTP/1.1 204 No Content 
+POST /p HTTP/1.1  (application/octet-stream)
+GET /RM/Box/c/b/prebid/config/o2_pudelek_pl.js HTTP/1.1 
+HTTP/1.0 302 Found 
+HTTP/1.1 200 OK  (application/octet-stream)
+GET /gemius/xgemius.js HTTP/1.1 
+HTTP/1.1 200 OK  (application/octet-stream)
+GET /pliki/231991_20160318120.js HTTP/1.1 
+HTTP/1.1 200 OK  (application/x-javascript)
+HTTP/1.1 304 Not Modified 
+GET /r/__utm.gif?utmwv=5.6.7&utms=1&utmn=1867166484&utmhn=www.pudelek.pl&utmcs=UTF-8&utmsr=1280x1024&utmvp=1280x868&utmsc=24-bit&utmul=pl&utmje=1&utmfl=21.0%20r0&utmdt=PUDELEK%20-%20Sensacja.%20Plotka.%20Komentarz&utmhid=2093972099&utmr=-&utmp=%2F&utmht=1458300049432&utmac=UA-4014444-5&utmcc=__utma%3D21588644.1546144611.1458136831.1458289778.1458300049.7%3B%2B__utmz%3D21588644.1458136831.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmjid=851812277&utmredir=1&utmu=qBAAAAAAAAAAAAAAAAAAAAAE~ HTTP/1.1 
+GET /r/__utm.gif?utmwv=5.6.7&utms=2&utmn=1578529774&utmhn=www.pudelek.pl&utmcs=UTF-8&utmsr=1280x1024&utmvp=1280x868&utmsc=24-bit&utmul=pl&utmje=1&utmfl=21.0%20r0&utmdt=PUDELEK%20-%20Sensacja.%20Plotka.%20Komentarz&utmhid=2093972099&utmr=-&utmp=pudelek.pl&utmht=1458300049437&utmac=UA-8578717-46&utmcc=__utma%3D21588644.1546144611.1458136831.1458289778.1458300049.7%3B%2B__utmz%3D21588644.1458136831.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmjid=1107497145&utmredir=1&utmmt=1&utmu=qhCgAAAAAAAAAAAAAAAAAAAE~ HTTP/1.1 
+HTTP/1.1 200 OK  (GIF89a) (GIF89a) (image/gif)
+HTTP/1.1 200 OK  (GIF89a) (GIF89a) (image/gif)
+POST /p HTTP/1.1  (application/octet-stream)
+HTTP/1.1 200 OK  (application/octet-stream)
+GET /bar.gif HTTP/1.1 
+HTTP/1.1 304 Not Modified 
+GET /display.js?rekid=231991&rektype=1&phtml=www.pudelek.pl/&PWA_adbd=0&REKtagi=sensacja;plotka;skandal;gwiazdy;celebrities;znani_ludzie&PWAsw=1280&PWAsh=1024&PWAbn=firefox&PWAhour=12&PWAminute=20&PWAref=unknown&PWAflash=21&PWAr=94760364030792320 HTTP/1.1 
+GET /jd1h98p0m.png HTTP/1.1 
+HTTP/1.1 200 OK  (application/x-javascript)
+POST /p HTTP/1.1  (application/octet-stream)
+HTTP/1.1 200 OK  (application/octet-stream)
+POST /p HTTP/1.1  (application/octet-stream)
+GET /lps7q1nfp3_929.xml HTTP/1.1 
+HTTP/1.1 200 OK  (application/x-javascript)
+HTTP/1.1 200 OK  (application/octet-stream)
+POST /p HTTP/1.1  (application/octet-stream)
+GET /_1458300049769/rexdot.js?l=94&id=zabq76sr.5uE4YNxMDEvO8eBTKLkSBAsfjrsXPwNu07.d7&id=zIs1vvfwOb_ON5CDaxZos8QK.s5WAEcK3o_.GxArQBf.f7&et=view&hsrc=1&extra=&fr=1&tz=-60&fv=Shockwave%20Flash%2021.0%20r0&href=http%3A%2F%2Fwww.pudelek.pl%2F&ref=&screen=1280x1024r1000&col=24&window=1280x868&ltime=94&lsdata=0DC8ikqk51rYrG8qWQqqJfhRd2h0RE9am6qg0AASsFj.r7/1457346349904/&fpdata=WsMccy_oBr3pCU7TuMLZP2b5GOQsrbh.eOZToNmnzKb.V7&vis=1&lsadd=KlGVsGoa HTTP/1.1 
+HTTP/1.1 200 OK  (application/x-javascript)
+HTTP/1.1 200 OK  (application/octet-stream)
+GET /r2148967992/show.gif?srv=o2_pudelek_pl&action=aab&par=PWA_adbd%3D0%26PWA_adbdh1%3D0%26PWA_adbdh2%3D0%26PWA_adbdh3%3D0%26PWA_adbdh4%3D0&pg=http%3A%2F%2Fwww.pudelek.pl%2F&gfk_m=pudelekPL&gfk_c=d_SG&pvid=ca6139aee16f2000&v=5.4 HTTP/1.1 
+HTTP/1.1 204 No Content 
+GET /RM/ads/adstream_lx.ads/Pudelek.pl/index.html/L21/79842363/x24/OasDefault/WP_GoogleADX_Finansowe_all_3_msky/adM4570715.html/31453170696c6264567930414163436b?_RM_EMPTY_ HTTP/1.1 
+HTTP/1.1 200 OK  (GIF89a) (GIF89a) (image/gif)
+GET /redir?SN=traffic_reklama&par=src%3DDFPFB0&url=http%3A%2F%2Fadv.wp.pl%2FRM%2FBox%2Fempty.gif HTTP/1.1 
+HTTP/1.1 301 Moved Permanently  (text/html)
+GET /tag/js/gpt.js HTTP/1.1 
+HTTP/1.1 304 Not Modified 
+GET /RM/ads/adstream_lx.ads/Pudelek.pl/index.html/L21/1794452074/x37/OasDefault/WP_GoogleADX_Finansowe_all_3_msky/5230662.html/31453170696c6264567930414163436b?_RM_EMPTY_ HTTP/1.1 
+HTTP/1.1 200 OK  (GIF89a) (GIF89a) (image/gif)
+GET /pagead/expansion_embed.js?source=safeframe HTTP/1.1 
+GET /pagead/osd.js HTTP/1.1 
+HTTP/1.1 304 Not Modified 
+HTTP/1.1 304 Not Modified 
+POST /p HTTP/1.1  (application/octet-stream)
+GET /ads/measurement/l?ebcid=ALh7CaQE19VPhPpINBNwpcY74I70mbfls91Ad9BaUPbBOPr8qDYkBj0RxN3UIc2-1aYpRge4cl2BvzxPT2TXtOGErH-n0DsNfw HTTP/1.1 
+HTTP/1.1 204 No Content 
+HTTP/1.1 200 OK  (application/octet-stream)
+POST /p HTTP/1.1  (application/octet-stream)
+HTTP/1.1 200 OK  (application/octet-stream)
+GET /ads/measurement/l?ebcid=ALh7CaQE19VPhPpINBNwpcY74I70mbfls91Ad9BaUPbBOPr8qDYkBj0RxN3UIc2-1aYpRge4cl2BvzxPT2TXtOGErH-n0DsNfw HTTP/1.1 
+POST /p HTTP/1.1  (application/octet-stream)
+HTTP/1.1 204 No Content 
+HTTP/1.1 200 OK  (application/octet-stream)
+POST /p HTTP/1.1  (application/octet-stream)
+HTTP/1.1 200 OK  (application/octet-stream)
+GET /RM/ads/adstream_lx.ads/Pudelek.pl/index.html/L21/2124915170/x05/OasDefault/WP_GoogleADX_Finansowe_all_3_rectangle/adM2.html/31453170696c6264567930414163436b?_RM_EMPTY_ HTTP/1.1 
+HTTP/1.1 200 OK  (GIF89a) (GIF89a) (image/gif)
+GET /ads/measurement/l?ebcid=ALh7CaQKB_XHXJNpTyjh96D6lXuImn2KfvSOL0Y9rqYS9bdaO89dljIXgg0awhf0vdk7XmbhONnbGl74i2h9mJG-eHsslGlZiw HTTP/1.1 
+HTTP/1.1 204 No Content 
+GET /ads/measurement/l?ebcid=ALh7CaQKB_XHXJNpTyjh96D6lXuImn2KfvSOL0Y9rqYS9bdaO89dljIXgg0awhf0vdk7XmbhONnbGl74i2h9mJG-eHsslGlZiw HTTP/1.1 
+HTTP/1.1 204 No Content 
+GET /call/pubj/72785/546887/32046/S/5043156 HTTP/1.1 
+HTTP/1.1 200 OK  (application/javascript)
+GET /w/1.0/jstag HTTP/1.1 
+POST /p HTTP/1.1  (application/octet-stream)
+HTTP/1.1 200 OK  (text/javascript)
+HTTP/1.1 200 OK  (application/octet-stream)
+GET /diff/rtb/csync/CookieSync.html?nwid=710&dcid=3 HTTP/1.1 
+HTTP/1.1 200 OK  (text/html)
+GET /w/1.0/acj?o=5056394725&callback=OX_5056394725&ju=http%3A//www.pudelek.pl/&jr=&auid=538164521&dims=1280x868&adxy=802%2C5318&res=1280x1024x24&plg=swf%2Csl%2Cpdf%2Cwmp%2Cshk%2Cpm&ch=UTF-8&tz=-60&ws=1280x868&ifr=0&tws=1280x868&sd=1 HTTP/1.1 
+GET /diff/rtb/csync/CookieSync.min.js HTTP/1.1 
+HTTP/1.1 200 OK  (application/x-javascript)
+HTTP/1.1 200 OK  (application/json)
+GET /call/pubj/72785/546887/32046/S/5043156/%3Bnortbplus=1? HTTP/1.1 
+GET /w/1.0/pd?plm=1&ph=50ab0170-10fc-4aec-b816-8e01043433e7 HTTP/1.1 
+POST /p HTTP/1.1  (application/octet-stream)
+GET /pixel/p-EtBqU4Lj3YbAv.gif?idmatch=0 HTTP/1.1 
+HTTP/1.1 200 OK  (application/javascript)
+GET /pixel?google_nid=smartrtb_dbm&google_cm&google_sc HTTP/1.1 
+GET /pixel;r=2089741998;a=p-T1nhLcmCjVzQS;fpan=0;fpa=P0-1971326600-1457346380913;ns=1;ce=1;cm=;je=1;sr=1280x1024x24;enc=n;dst=1;et=1458300052126;tzo=-60;ref=http%3A%2F%2Fwww.pudelek.pl%2F;url=http%3A%2F%2Fcdn1.smartadserver.com%2Fdiff%2Frtb%2Fcsync%2FCookieSync.html%3Fnwid%3D710%26dcid%3D3;ogl= HTTP/1.1 
+HTTP/1.1 200 OK  (text/html)
+GET /track/cmf/generic?ttd_pid=smart-adserver&ttd_tpi=1 HTTP/1.1 
+HTTP/1.1 302 Found 
+HTTP/1.1 302 Found  (text/html)
+HTTP/1.1 200 OK  (application/octet-stream)
+GET /r1/cm/p68r HTTP/1.1 
+HTTP/1.1 200 OK  (GIF89a) (GIF89a) (image/gif)
+GET /smart/cookie?sspurl=http%3A%2F%2Frtb-csync.smartadserver.com%2Fredir%2F%3Fpartnerid%3D66%26partneruserid%3D%7Bamob_user_id%7D HTTP/1.1 
+HTTP/1.1 200 OK  (GIF89a) (GIF89a) (image/gif)
+HTTP/1.1 302 Found  (text/html)
+GET /platform/pixelpush?adx=smrt HTTP/1.1 
+GET /diff/templates/js/sas/sas-browser.js HTTP/1.1 
+HTTP/1.1 200 OK 
+HTTP/1.1 304 Not Modified 
+GET /getuid?http://eu-u.openx.net/w/1.0/sd?id=537072399&val=$UID HTTP/1.1 
+GET /redir/?partnerid=80&partneruserid=W6hkUFupNFBDrzkAXaktA1msYgJDpzkBVq5XbzOW HTTP/1.1 
+HTTP/1.1 302 Found 
+GET /redir/?partnerid=76&partneruserid=CAESEGJupOnsiYi9ziQ8vzqdfLc HTTP/1.1 
+GET /diff/templates/js/sas/sas-dom.js HTTP/1.1 
+HTTP/1.1 304 Not Modified 
+GET /redir/?partnerid=75&partneruserid=efee9c6a-fc14-4df4-ab64-d814209c4552 HTTP/1.1 
+HTTP/1.1 200 OK  (GIF89a) (GIF89a) (image/gif)
+HTTP/1.1 200 OK  (GIF89a) (GIF89a) (image/gif)
+GET /w/1.0/sd?id=537072399&val=2770863520639344749 HTTP/1.1 
+HTTP/1.1 200 OK  (GIF89a) (GIF89a) (image/gif)
+HTTP/1.1 200 OK  (GIF89a) (GIF89a) (image/gif)
+HTTP/1.1 200 OK  (GIF89a) (GIF89a) (image/gif)
+GET /diff/templates/js/banner/sas-banner-2.0.js HTTP/1.1 
+HTTP/1.1 304 Not Modified 
+GET /display.js?rekid=231991&rektype=1&phtml=www.pudelek.pl/&PWA_adbd=0&REKtagi=sensacja;plotka;skandal;gwiazdy;celebrities;znani_ludzie&PWAsw=1280&PWAsh=1024&PWAbn=firefox&PWAhour=12&PWAminute=20&PWAref=unknown&PWAflash=21&rpos=x05&rand=2124915170&PWA_cl_str=95374_214557_Wideboard_MediaExpert_01,95803_215534_gwp_ros_Aflofarm_DEMO_belka_01,95875_215308_scree_pudelek_sidolux_01,96913_217918_Intermarche_fotofoto_pudelek_01,AdForm_Pudelek_x32,BusinessClick_Pudel_SG_x80,GoogleADX_PudelekSG,GoogleADX_PudelekSG,WP_GoogleADX_Finansowe_all_3_msky,WP_GoogleADX_Finansowe_all_3_msky,WP_GoogleADX_Finansowe_all_3_rectangle,WP_GoogleADX_Finansowe_all_3_rectangle,WP_GoogleADX_Finansowe_all_3_rectangle&PWA_adv=1 HTTP/1.1 
+GET /RM/ads/adstream_lx.ads/Pudelek.pl/index.html/L21/2124915170/x05/OasDefault/PassbackCount/PassbackCountx03.html/31453170696c6264567930414163436b?_RM_EMPTY_ HTTP/1.1 
+HTTP/1.1 200 OK  (GIF89a) (GIF89a) (image/gif)
+HTTP/1.1 200 OK  (application/x-javascript)
+GET /RM/ads/adstream_lx.ads/Pudelek.pl/index.html/L21/368737355/x34/OasDefault/WP_GoogleADX_Finansowe_all_3_rectangle/5230661.html/31453170696c6264567930414163436b?_RM_EMPTY_ HTTP/1.1 
+HTTP/1.1 200 OK  (GIF89a) (GIF89a) (image/gif)
+GET /Admeta.js HTTP/1.1 
+HTTP/1.1 304 Not Modified 
+GET /JSAdservingSP.ashx?pbId=86&wsName=Pudelek.pl&wName=index.html&rank=x34&bfDim=300x250&subp=Wirtualna%20Polska&gid=index.html300250:x34:4e7deb&clk=&di=1&exm=&jsv=1.84&tsv=2.26&cts=1458300053001&fl=1&vitp=2&vit=---%3B%3B---&jscb=&pp=&url=&fp=0;500;400;18&rpos=0&oid=&ecpm=&exr=&ntv=&mraid=&ntl=&apid=&apbndl=&mpp=0&adsid=&uid=&cb=34863962 HTTP/1.1 
+HTTP/1.1 200 OK  (text/javascript)
+GET /display.js?rekid=231991&rektype=1&phtml=www.pudelek.pl/&PWA_adbd=0&REKtagi=sensacja;plotka;skandal;gwiazdy;celebrities;znani_ludzie&PWAsw=1280&PWAsh=1024&PWAbn=firefox&PWAhour=12&PWAminute=20&PWAref=unknown&PWAflash=21&rpos=x34&rand=368737355&PWA_cl_str=95374_214557_Wideboard_MediaExpert_01,95803_215534_gwp_ros_Aflofarm_DEMO_belka_01,95875_215308_scree_pudelek_sidolux_01,96913_217918_Intermarche_fotofoto_pudelek_01,AdForm_Pudelek_x32,BusinessClick_Pudel_SG_x80,GoogleADX_PudelekSG,GoogleADX_PudelekSG,WP_GoogleADX_Finansowe_all_3_msky,WP_GoogleADX_Finansowe_all_3_msky,WP_GoogleADX_Finansowe_all_3_rectangle,WP_GoogleADX_Finansowe_all_3_rectangle,WP_GoogleADX_Finansowe_all_3_rectangle HTTP/1.1 
+HTTP/1.1 200 OK  (application/x-javascript)
+POST /p HTTP/1.1  (application/octet-stream)
+GET /track/cmf/generic?ttd_pid=admeta-uk&ttd_tpi=1 HTTP/1.1 
+HTTP/1.1 200 OK  (application/octet-stream)
+GET /AdChoices/OBA_60.png HTTP/1.1 
+HTTP/1.1 302 Found  (text/html)
+HTTP/1.1 304 Not Modified 
+GET /redir?SN=traffic_reklama&par=src%3Dx18a&url=http%3A%2F%2Fadv.wp.pl%2FRM%2FBox%2Fempty.gif HTTP/1.1 
+GET /RM/ads/adstream_lx.ads/Pudelek.pl/index.html/L21/1661836118/x18/OasDefault/WP_GoogleADX_Finansowe_all_3_rectangle/adM2584638.html/31453170696c6264567930414163436b?_RM_EMPTY_ HTTP/1.1 
+HTTP/1.1 301 Moved Permanently  (text/html)
+HTTP/1.1 200 OK  (GIF89a) (GIF89a) (image/gif)
+HTTP/1.0 400 Bad request  (text/html)
+GET /iftfl.js?ver=1.4.1&qid=836373f5137373f5131353&cid=511&p=86&s=http%3a%2f%2fwww.pudelek.pl%2f&x=admeta&adtg=82397&nci=&nai=&nsi=&cstm1=&cstm2=&cstm3=&kqt=&xc=&test=&od1=&od2=&co=0&tps=50&rnd=k7ng3rjjw8oj HTTP/1.1 
+HTTP/1.1 200 OK [Malformed Packet]
+GET /UserMatch.ashx?bidderid=67&bidderuid=efee9c6a-fc14-4df4-ab64-d814209c4552 HTTP/1.1 
+HTTP/1.1 200 OK  (GIF89a) (GIF89a) (image/gif)
+GET /redir?SN=traffic_reklama&par=src%3Dx18b&url=http%3A%2F%2Fadv.wp.pl%2FRM%2FBox%2Fempty.gif HTTP/1.1 
+GET /display.js?rekid=231991&rektype=1&phtml=www.pudelek.pl/&PWA_adbd=0&REKtagi=sensacja;plotka;skandal;gwiazdy;celebrities;znani_ludzie&PWAsw=1280&PWAsh=1024&PWAbn=firefox&PWAhour=12&PWAminute=20&PWAref=unknown&PWAflash=21&rpos=x18&rand=1661836118&PWA_cl_str= HTTP/1.1 
+HTTP/1.1 301 Moved Permanently  (text/html)
+GET /redir?SN=traffic_reklama&par=src%3Dx18c&url=http%3A%2F%2Fadv.wp.pl%2FRM%2FBox%2Fempty.gif HTTP/1.1 
+HTTP/1.1 301 Moved Permanently  (text/html)
+HTTP/1.1 200 OK  (application/x-javascript)
+GET /as/ADX_nowy_brakkodu.html HTTP/1.1 
+HTTP/1.1 301 Moved Permanently 
+GET /a.js HTTP/1.1 
+POST /p HTTP/1.1  (application/octet-stream)
+HTTP/1.1 304 Not Modified 
+GET /026b52811f102d9f980d08535b193ecfbe4a1771.jpg HTTP/1.1 
+HTTP/1.1 200 Ok  (JPEG JFIF image)
+HTTP/1.1 200 OK  (application/octet-stream)
+GET /g/fsc.gif?231991,31453170696c6264567930414163436b,015|019|022|023|018|081|006|010|011|012|013,20ad091f511189c53630c916f6afb4c5 HTTP/1.1 
+HTTP/1.0 200 OK  (GIF89a) (GIF89a) (image/gif)
+GET /Uk0vQm94LzIwMTUtMTAvbWNkL2V4dC9zY3JlZW5pbmc=/screening.lib.min.0.2.1.js HTTP/1.1 
+HTTP/1.1 304 Not Modified 
+GET /RM/ads/adstream_lx.ads/Pudelek.pl/index.html/L21/1446740583/x03/OasDefault/95875_215308_scree_pudelek_sidolux_01/Scr_ros_ready_kuchnia605624.html/31453170696c6264567930414163436b?PWA_adbd=0&_RM_EMPTY_ HTTP/1.1 
+HTTP/1.1 200 OK  (GIF89a) (GIF89a) (image/gif)
+GET /RM/ads/adstream_lx.ads/Pudelek.pl/index.html/L21/1708405826/x21/OasDefault/96913_217918_Intermarche_fotofoto_pudelek_01/gp21-inter-x21.html/31453170696c6264567930414163436b?PWA_adbd=0&_RM_EMPTY_ HTTP/1.1 
+HTTP/1.1 200 OK  (GIF89a) (GIF89a) (image/gif)
+GET /Uk0vQm94LzIwMTYtMDMvbWFycy8xNw==/kamien-i-sol_banner_300x300.jpg HTTP/1.1 
+HTTP/1.1 200 OK  (JPEG JFIF image)[Malformed Packet]
+GET /RM/ads/adstream_lx.ads/Pudelek.pl/index.html/L21/1221156561/r34/OasDefault/96924_217930_MegaBox_KamienIsol_01/test4444765538881539621539622627264627266627274627287628209642556644634.html/31453170696c6264567930414163436b?PWA_adbd=0&_RM_EMPTY_ HTTP/1.1 
+HTTP/1.1 200 OK  (GIF89a) (GIF89a) (image/gif)
+GET /BurstingPipe/adServer.bs?cn=tf&c=19&mc=imp&pli=16896926&PluID=0&ord=1446740583&rtu=-1 HTTP/1.1 
+GET /RM/ads/adstream_lx.ads/Pudelek.pl/index.html/L21/1542226195/r05/OasDefault/95892_215642_JYSK_stxt_01/2156421.html/31453170696c6264567930414163436b?PWA_adbd=0&_RM_EMPTY_ HTTP/1.1 
+GET /Uk0vQm94LzIwMTYtMDMvX21rL3NpZG9sdXhfUFVERUxFS185NTg3NV9FLTIxNTMwOA==/megabaner.jpg HTTP/1.1 
+HTTP/1.1 304 Not Modified 
+HTTP/1.1 200 OK  (GIF89a) (GIF89a) (image/gif)
+GET /Uk0vQm94LzIwMTYtMDMvX21rL3NpZG9sdXhfUFVERUxFS185NTg3NV9FLTIxNTMwOA==/TloLAKMA14.03.jpg HTTP/1.1 
+HTTP/1.1 304 Not Modified 
+GET /Uk0vQm94LzIwMTYtMDMvZ3AvaW50ZXJtYXJjaGU=/225x280_intermarche_wedzarnie_150316_03.jpg HTTP/1.1 
+HTTP/1.1 304 Not Modified 
+GET /Uk0vQm94LzIwMTYtMDMvZ3Avanlzaw==/GREENDAYS_300x250.jpg HTTP/1.1 
+HTTP/1.1 304 Not Modified 
+GET /pagead/js/adsbygoogle.js HTTP/1.1 
+HTTP/1.1 304 Not Modified 
+POST /p HTTP/1.1  (application/octet-stream)
+HTTP/1.1 200 OK  (application/octet-stream)
+GET /RM/ads/adstream_lx.ads/Pudelek.pl/index.html/L21/1356028320/x26/OasDefault/GoogleADX_PudelekSG/adx-26656249.html/31453170696c6264567930414163436b?PWA_adbd=0&_RM_EMPTY_ HTTP/1.1 
+HTTP/1.1 200 OK  (GIF89a) (GIF89a) (image/gif)
+GET /RM/ads/adstream_lx.ads/Pudelek.pl/index.html/L21/640273502/x25/OasDefault/GoogleADX_PudelekSG/adx-25656245.html/31453170696c6264567930414163436b?PWA_adbd=0&_RM_EMPTY_ HTTP/1.1 
+HTTP/1.1 200 OK  (GIF89a) (GIF89a) (image/gif)
+GET /awrapper?data=03609293b107be12293588a2c16e6ffde87111b19c0e7abf5983c64446f6ec23&ref2=http%3A%2F%2Fwww.pudelek.pl%2F&ref1=&v=2&encoding=UTF-8&oid=03609293b107be12293588a2c16e6ffd&json=t&adsame=f&adquant=1 HTTP/1.1 
+HTTP/1.1 200 OK  (GIF89a) (GIF89a) (image/gif)
+HTTP/1.0 400 Bad request  (text/html)
+POST /p HTTP/1.1  (application/octet-stream)
+HTTP/1.1 200 OK  (application/octet-stream)
+GET /_1708405826/redot.gif?id=p9CbGPe6QHgVRcIhjgGFnnXo76dNQKby9HI2IACbYGH.r7/fastid=kixanbejasaeawgjjdezlhroatjc/stparam=spcmpqfqoc HTTP/1.1 
+HTTP/1.1 200 OK  (GIF89a) (GIF89a) (image/gif)
+HTTP/1.1 200 OK  (text/javascript)
+POST /p HTTP/1.1  (application/octet-stream)
+GET /RM/ads/adstream_lx.ads/Pudelek.pl/index.html/L21/1618061962/x80/OasDefault/BusinessClick_Pudel_SG_x80/x80plista.html/31453170696c6264567930414163436b?PWA_adbd=0&_RM_EMPTY_ HTTP/1.1 
+HTTP/1.1 200 OK  (GIF89a) (GIF89a) (image/gif)
+HTTP/1.1 200 OK  (application/octet-stream)
+GET /96/ca/96caeea3c4a86f51a5d554be67fd03b0.jpeg HTTP/1.1 
+HTTP/1.1 304 Not Modified 
+POST /p HTTP/1.1  (application/octet-stream)
+GET /gtm.js?id=GTM-P5WDQF HTTP/1.1 
+HTTP/1.1 200 OK  (application/octet-stream)
+GET /i/1:90485,1:90493,1:90490,20:11732,1:90488,1:90487,20:11729,1:90486,1:90480,20:11722,1:90483,1:90478,1:90479,20:11726,1:90482,1:90463,1:90417,1:90473,20:11724,1:90471,20:11725,1:90467,1:90446,20:11719,1:90462,20:11727,1:90461,1:90464,20:11720,1:90460,1:90456,20:11723,1:90458,1:90457,1:90455,20:11721,1:90451,1:90465,1:90427,1:90424,1:90344,1:90323,1:90267,1:90242,1:90212,1:90131,1:90091,1:90044,1:90013,1:89968,1:89937,1:89859,1:89802,1:89777,1:89738,1:89697,1:89663,1:90449,1:90433,1:90413,1:90378,1:90387,1:90383,20:11731,20:11730,20:11728,1:90251,1:90237,1:90217,1:90218,1:90252,1:90350,1:90287,1:90354,1:90353,1:90317,1:90288,1:90329,1:90294,1:90234,1:90246,1:90331,1:90230,1:90296,1:90273,1:90326,1:90325,1:90278,1:90277,1:90275,1:90213,1:90322,1:90285,1:90258,20:9807,20:7349,20:7296,20:6867,1:90421,1:90384,1:90364,1:90369,1:90379,1:90436,20:11705,1:90428,20:11707,20:11714,1:90432,1:90429,20:11700,1:90426,1:90422,20:11709,1:90423,1:90419,20:11713,20:11712,1:90416,1:90414,20:11711,1:90412,1:90410,1:90409,1:90407,20:11703,1:90406,1:90403,1:90401,1:90397,1:90402,20:11701,1:90398,1:90394,1:90393,1:90390,20:11694,1:90389,1:90385,1:90386,20:11702,1:90381,20:11699,1:90376,20:11698,1:90375,1:90373,20:11697,1:90365,1:90370,1:90368,20:11696,1:90330,1:90359,20:11690,1:90363,1:90362,1:90358,1:90357,1:90356,20:11683,1:90349,20:11691,1:90339,1:90336,1:90343,1:90348,1:90345,1:90342,1:90333,20:11685,1:90338,1:90335,20:11689,1:90334,20:11687,20:11684,1:90327,20:11682,1:90324,1:90320,1:90319,1:90318,1:90315,20:11675,1:90163,1:90313,1:90311,20:11676,1:90309,1:90305,20:11679,1:90306,1:90304,20:11678,1:90302,1:90299,20:11681,1:90298,1:90293 HTTP/1.1 
+HTTP/1.1 200 OK  (GIF89a) (GIF89a) (image/gif)
+HTTP/1.1 200 OK  (application/javascript)
+GET /fsms/fsmsh.dll?FSMSCommand=GetVersion HTTP/1.1 
+HTTP/1.1 200 OK  (text/plain)
+GET /fsms/fsmsh.dll?FSMSCommand=GetPackage&Type=4&Identity0=4c4c4544-005a-4210-8053-b6c04f46354a&Encoding=UTF-8&Counter=4 HTTP/1.1 
+GET /fsms/fsmsh.dll?FSMSCommand=GetVersion HTTP/1.1 
+HTTP/1.1 304 Not Modified 
+HTTP/1.1 200 OK  (text/plain)
+POST /fsms/fsmsh.dll?FSMSCommand=UploadPackage&Type=5&Identity0=4c4c4544-005a-4210-8053-b6c04f46354a&Encoding=UTF-8 HTTP/1.1 
+HTTP/1.1 100 Continue 
+Continuation
+Continuation
+Continuation
+Continuation
+Continuation
+HTTP/1.1 200 OK 
+POST /p HTTP/1.1  (application/octet-stream)
+HTTP/1.1 200 OK  (application/octet-stream)
+GET /_1458300109669/redot.js?l=93&id=zIs1vvfwOb_ON5CDaxZos8QK.s5WAEcK3o_.GxArQBf.f7&fr=1&tz=-60&fv=Shockwave%20Flash%2021.0%20r0&href=http%3A%2F%2Fwww.pudelek.pl%2F&ref=&screen=1280x1024r1000&col=24&window=1280x868&ltime=94&lsdata=0DC8ikqk51rYrG8qWQqqJfhRd2h0RE9am6qg0AASsFj.r7/1457346349904/&fpdata=WsMccy_oBr3pCU7TuMLZP2b5GOQsrbh.eOZToNmnzKb.V7&vis=1&lsadd=KlGVsGoa&eventid=0 HTTP/1.1 
+HTTP/1.1 200 OK  (application/x-javascript)
+POST /p HTTP/1.1  (application/octet-stream)
+HTTP/1.1 200 OK  (application/octet-stream)
+POST /p HTTP/1.1  (application/octet-stream)
+HTTP/1.1 200 OK  (application/octet-stream)
+GET /_1458300169667/redot.js?l=93&id=zIs1vvfwOb_ON5CDaxZos8QK.s5WAEcK3o_.GxArQBf.f7&fr=1&tz=-60&fv=Shockwave%20Flash%2021.0%20r0&href=http%3A%2F%2Fwww.pudelek.pl%2F&ref=&screen=1280x1024r1000&col=24&window=1280x868&ltime=94&lsdata=0DC8ikqk51rYrG8qWQqqJfhRd2h0RE9am6qg0AASsFj.r7/1457346349904/&fpdata=WsMccy_oBr3pCU7TuMLZP2b5GOQsrbh.eOZToNmnzKb.V7&vis=1&lsadd=KlGVsGoa&eventid=0 HTTP/1.1 
+HTTP/1.1 200 OK  (application/x-javascript)

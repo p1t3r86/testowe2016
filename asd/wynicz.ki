@@ -1,0 +1,288 @@
++++++++++++++++++++++++++++++++++++++++++++++++
+2016-03-17T17:01:11.985203
+http://www.wp.pl
+gaf.js is not present
+rekid is present
+fsc is not present
+bar.gif is not present
+document.write is not present
+/pliki/ is not present
++++++++++++++++++++++++++++++++++++++++++++++++
+2016-03-17T17:01:22.022359
+http://www.tech.wp.pl
+gaf.js is not present
+rekid is present
+fsc is not present
+bar.gif is not present
+document.write is present
+/pliki/ is present
++++++++++++++++++++++++++++++++++++++++++++++++
+2016-03-17T17:01:45.953208
+http://www.dzieci.pl
+gaf.js is not present
+rekid is present
+fsc is not present
+bar.gif is not present
+document.write is present
+/pliki/ is present
++++++++++++++++++++++++++++++++++++++++++++++++
+2016-03-17T17:02:03.943670
+http://www.pudelek.pl
+gaf.js is not present
+rekid is present with rpos
+fsc is not present
+bar.gif is not present
+document.write is present
+/pliki/ is present
++++++++++++++++++++++++++++++++++++++++++++++++
+2016-03-17T17:02:16.312663
+http://www.kobieta.wp.pl
+gaf.js is not present
+rekid is present
+fsc is not present
+bar.gif is not present
+document.write is present
+/pliki/ is present
++++++++++++++++++++++++++++++++++++++++++++++++
+2016-03-17T17:02:27.185878
+http://www.sportowefakty.wp.pl
+gaf.js is present
+rekid is present with rpos
+fsc is not present
+bar.gif is not present
+document.write is not present
+/pliki/ is not present
++++++++++++++++++++++++++++++++++++++++++++++++
+2016-03-17T17:02:41.048660
+http://www.tv.wp.pl
+gaf.js is not present
+rekid is present with rpos
+fsc is not present
+bar.gif is not present
+document.write is present
+/pliki/ is present
++++++++++++++++++++++++++++++++++++++++++++++++
+2016-03-17T17:02:48.949925
+http://www.wp.tv
+gaf.js is not present
+rekid is present
+fsc is not present
+bar.gif is not present
+document.write is present
+/pliki/ is present
++++++++++++++++++++++++++++++++++++++++++++++++
+2016-03-17T17:02:56.145479
+http://www.gry.wp.pl
+gaf.js is not present
+rekid is present
+fsc is not present
+bar.gif is not present
+document.write is not present
+/pliki/ is present
++++++++++++++++++++++++++++++++++++++++++++++++
+2016-03-17T17:03:00.657562
+http://www.praca.wp.pl
+gaf.js is present
+rekid is present with rpos
+fsc is not present
+bar.gif is not present
+document.write is not present
+/pliki/ is not present
++++++++++++++++++++++++++++++++++++++++++++++++
+2016-03-17T17:03:04.778077
+http://www.poczta.wp.pl
+gaf.js is not present
+rekid is present
+fsc is not present
+bar.gif is not present
+document.write is present
+/pliki/ is present
++++++++++++++++++++++++++++++++++++++++++++++++
+2016-03-17T17:03:11.458958
+http://www.money.pl
+gaf.js is present
+rekid is present
+fsc is not present
+bar.gif is not present
+document.write is present
+/pliki/ is not present
++++++++++++++++++++++++++++++++++++++++++++++++
+2016-03-17T17:03:27.266788
+http://www.wiadomosci.wp.pl
+gaf.js is not present
+rekid is present with rpos
+fsc is not present
+bar.gif is not present
+document.write is present
+/pliki/ is present
++++++++++++++++++++++++++++++++++++++++++++++++
+2016-03-17T17:03:35.291794
+http://www.pogoda.wp.pl
+gaf.js is not present
+rekid is present with rpos
+fsc is not present
+bar.gif is not present
+document.write is present
+/pliki/ is present
++++++++++++++++++++++++++++++++++++++++++++++++
+2016-03-17T17:03:42.607558
+http://www.topnews.wp.pl
+gaf.js is not present
+rekid is present
+fsc is not present
+bar.gif is not present
+document.write is present
+/pliki/ is present
+sprawdzilem 15 serwisow
+===liczba wystapien poszczegolnych elementow===
+gaf.js= 3
+rekid= 9
+rekidrpos= 6
+fsc= 0
+bar.gif= 0
+document.write= 11
+/pliki/= 11
++++++++++++++++++++++++++++++++++++++++++++++++
+2016-03-17T17:10:19.292043
+http://www.wp.pl
+gaf.js is not present
+rekid is present
+fsc is not present
+bar.gif is not present
+document.write is not present
+/pliki/ is not present
++++++++++++++++++++++++++++++++++++++++++++++++
+2016-03-17T17:10:43.738225
+http://www.tech.wp.pl
+gaf.js is not present
+rekid is present
+fsc is not present
+bar.gif is not present
+document.write is present
+/pliki/ is present
++++++++++++++++++++++++++++++++++++++++++++++++
+2016-03-17T17:11:24.406274
+http://www.dzieci.pl
+gaf.js is not present
+rekid is present
+fsc is not present
+bar.gif is not present
+document.write is present
+/pliki/ is present
++++++++++++++++++++++++++++++++++++++++++++++++
+2016-03-17T17:12:05.689749
+http://www.pudelek.pl
+gaf.js is not present
+rekid is present with rpos
+fsc is not present
+bar.gif is not present
+document.write is present
+/pliki/ is present
++++++++++++++++++++++++++++++++++++++++++++++++
+2016-03-17T17:12:37.327675
+http://www.kobieta.wp.pl
+gaf.js is not present
+rekid is present
+fsc is not present
+bar.gif is not present
+document.write is present
+/pliki/ is present
++++++++++++++++++++++++++++++++++++++++++++++++
+2016-03-17T17:12:44.973602
+http://www.sportowefakty.wp.pl
+gaf.js is present
+rekid is present with rpos
+fsc is not present
+bar.gif is not present
+document.write is not present
+/pliki/ is not present
++++++++++++++++++++++++++++++++++++++++++++++++
+2016-03-17T17:12:57.529927
+http://www.tv.wp.pl
+gaf.js is not present
+rekid is present with rpos
+fsc is not present
+bar.gif is not present
+document.write is present
+/pliki/ is present
++++++++++++++++++++++++++++++++++++++++++++++++
+2016-03-17T17:13:03.703266
+http://www.wp.tv
+gaf.js is not present
+rekid is present
+fsc is not present
+bar.gif is not present
+document.write is present
+/pliki/ is present
++++++++++++++++++++++++++++++++++++++++++++++++
+2016-03-17T17:13:09.608655
+http://www.gry.wp.pl
+gaf.js is not present
+rekid is present
+fsc is not present
+bar.gif is not present
+document.write is not present
+/pliki/ is present
++++++++++++++++++++++++++++++++++++++++++++++++
+2016-03-17T17:13:13.627342
+http://www.praca.wp.pl
+gaf.js is present
+rekid is present with rpos
+fsc is not present
+bar.gif is not present
+document.write is not present
+/pliki/ is not present
++++++++++++++++++++++++++++++++++++++++++++++++
+2016-03-17T17:13:17.122507
+http://www.poczta.wp.pl
+gaf.js is not present
+rekid is present
+fsc is not present
+bar.gif is not present
+document.write is present
+/pliki/ is present
++++++++++++++++++++++++++++++++++++++++++++++++
+2016-03-17T17:13:22.080380
+http://www.money.pl
+gaf.js is present
+rekid is present with rpos
+fsc is not present
+bar.gif is not present
+document.write is present
+/pliki/ is not present
++++++++++++++++++++++++++++++++++++++++++++++++
+2016-03-17T17:13:34.067261
+http://www.wiadomosci.wp.pl
+gaf.js is not present
+rekid is present with rpos
+fsc is not present
+bar.gif is not present
+document.write is present
+/pliki/ is present
++++++++++++++++++++++++++++++++++++++++++++++++
+2016-03-17T17:13:40.914711
+http://www.pogoda.wp.pl
+gaf.js is not present
+rekid is present with rpos
+fsc is not present
+bar.gif is not present
+document.write is present
+/pliki/ is present
++++++++++++++++++++++++++++++++++++++++++++++++
+2016-03-17T17:13:45.160373
+http://www.topnews.wp.pl
+gaf.js is not present
+rekid is present
+fsc is not present
+bar.gif is not present
+document.write is present
+/pliki/ is present
+sprawdzilem 15 serwisow
+===liczba wystapien poszczegolnych elementow===
+gaf.js= 3
+rekid= 8
+rekidrpos= 7
+fsc= 0
+bar.gif= 0
+document.write= 11
+/pliki/= 11
